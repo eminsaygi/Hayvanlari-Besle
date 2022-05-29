@@ -1,0 +1,18 @@
+C:/Users/Rabia Nur/source/repos/FeedMe/EntityLayer/bin/Debug/EntityLayer.dll
+C:/Users/Rabia Nur/source/repos/FeedMe/EntityLayer/bin/Debug/EntityLayer.pdb
+C:/Users/Rabia Nur/source/repos/FeedMe/EntityLayer/obj/Debug/EntityLayer.csproj.AssemblyReference.cache
+C:/Users/Rabia Nur/source/repos/FeedMe/EntityLayer/obj/Debug/EntityLayer.csproj.CoreCompileInputs.cache
+C:/Users/Rabia Nur/source/repos/FeedMe/EntityLayer/obj/Debug/EntityLayer.dll
+C:/Users/Rabia Nur/source/repos/FeedMe/EntityLayer/obj/Debug/EntityLayer.pdb
+/Users/eminsaygi/Downloads/FeedMe-main/EntityLayer/bin/Debug/EntityLayer.dll
+/Users/eminsaygi/Downloads/FeedMe-main/EntityLayer/bin/Debug/EntityLayer.pdb
+/Users/eminsaygi/Downloads/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.csproj.AssemblyReference.cache
+/Users/eminsaygi/Downloads/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/eminsaygi/Downloads/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.dll
+/Users/eminsaygi/Downloads/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.pdb
+/Users/eminsaygi/Downloads/Diğer/FeedMe-main/EntityLayer/bin/Debug/EntityLayer.dll
+/Users/eminsaygi/Downloads/Diğer/FeedMe-main/EntityLayer/bin/Debug/EntityLayer.pdb
+/Users/eminsaygi/Downloads/Diğer/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.csproj.AssemblyReference.cache
+/Users/eminsaygi/Downloads/Diğer/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.csproj.CoreCompileInputs.cache
+/Users/eminsaygi/Downloads/Diğer/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.dll
+/Users/eminsaygi/Downloads/Diğer/FeedMe-main/EntityLayer/obj/Debug/EntityLayer.pdb
